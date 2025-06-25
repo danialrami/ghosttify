@@ -150,7 +150,7 @@ Backup complete.
 
 ## 🤝 Contributing
 
-We welcome contributions! Some ideas:
+Some ideas:
 
 - Support for other terminal emulators
 - Linux/Windows compatibility  
