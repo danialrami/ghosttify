@@ -1,0 +1,41 @@
+# Ghosttify Generated Files
+*_ghostty.sh
+
+# Temporary Files
+/tmp/
+*.tmp
+.temp/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Log Files
+*.log
+logs/
+
+# Testing/Example Scripts (uncomment if you add examples)
+# examples/*/output/
+# examples/*/*.log
+# examples/*/*_ghostty.sh
+
+# OS Generated Files
+.directory
+desktop.ini
+
+# Backup Files
+*.bak
+*.backup
+*.orig
