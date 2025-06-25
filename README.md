@@ -27,7 +27,7 @@
 
 2. **Download Ghosttify**:
    ```bash
-   curl -O https://raw.githubusercontent.com/yourusername/ghosttify/main/ghosttify.sh
+   curl -O https://raw.githubusercontent.com/danialrami/ghosttify/main/ghosttify.sh
    chmod +x ghosttify.sh
    ```
 
